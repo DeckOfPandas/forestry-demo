@@ -32,7 +32,7 @@ sections:
   templates:
   - project
 - type: document
-  path: _data/information.yml
+  path: _data/contact_information.yml
   label: Contact Information
 upload_dir: uploads
 public_path: "/uploads"
